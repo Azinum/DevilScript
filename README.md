@@ -13,3 +13,4 @@
 
 ##### Other
 * `ptc! this will be printed` print to console
+* `cmd! ls` shell input
